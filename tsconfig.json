@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "removeComments": true,
+    "preserveConstEnums": true
+  },
+  "exclude": [
+    "node_modules" 
+  ]
+}
